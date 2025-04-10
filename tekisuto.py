@@ -2,5 +2,7 @@ Gitチュートリアル
 git ステータス
 git ステータス2
 git diff
-git commit
-git merge
+git commit --amend
+conflict
+
+pull request
