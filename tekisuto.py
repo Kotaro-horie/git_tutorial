@@ -2,4 +2,6 @@ Gitチュートリアル
 git ステータス
 git ステータス2
 git diff
-コンフリクト
+git commit --amend
+conflict
+
