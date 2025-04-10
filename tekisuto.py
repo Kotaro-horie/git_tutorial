@@ -1,3 +1,4 @@
 Gitチュートリアル
 git ステータス
 git ステータス2
+git diff
